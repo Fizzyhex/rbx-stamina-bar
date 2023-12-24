@@ -8,7 +8,7 @@ Hold <kbd>Left Shift</kbd> to sprint! If the stamina bar runs out, you will be '
 
 ## Installation
 
-1. Clone the repository using [git](https://git-scm.com), or by clicking 'Download ZIP' under the green 'Code' button on the GitHub page
+1. Clone the repository using [git](https://git-scm.com), or click 'Download ZIP' on the submenu that pops up when you click the green 'Code' button on GitHub.
 ```sh
 git clone https://github.com/Fizzyhex/rbx-stamina-bar.git
 ```
