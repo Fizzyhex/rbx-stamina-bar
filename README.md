@@ -20,4 +20,4 @@ rojo serve default.project.json
 
 ## Philosophy
 
-The [`SprintUtil`](src/SprintSystem/SprintUtil.luau) module is hyper-focused on just managing the data that it needs. It effortlessly isn't dependent on Roblox libraries (such as RunService or ContextActionService) or even frameworks. Providing input and updating state is a responsibility that's passed off to the layer above - or [`SprintSystem`](src/SprintSystem/init.client.luau) in this case.
+The [`SprintUtil`](src/SprintSystem/SprintUtil.luau) module is hyper-focused on just managing the data that it needs. It effortlessly isn't dependent on Roblox libraries (such as RunService or ContextActionService) or frameworks. Providing input and updating state is a responsibility that's passed off to the layer above - or [`SprintSystem`](src/SprintSystem/init.client.luau) in this case.
