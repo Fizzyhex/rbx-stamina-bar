@@ -13,7 +13,7 @@ Hold <kbd>Left Shift</kbd> to sprint! If the stamina bar runs out, you will be '
 git clone https://github.com/Fizzyhex/rbx-stamina-bar.git
 ```
 
-2. Use [Rojo](https://rojo.space) to serve the project. This can be done via an IDE or by using the command-line tool.
+2. Open up any Roblox place file and use [Rojo](https://rojo.space) to serve the project. This can be done via an IDE or by using the command-line tool.
 ```sh
 rojo serve default.project.json
 ```
