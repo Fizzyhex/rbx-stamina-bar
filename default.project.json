@@ -1,0 +1,15 @@
+{
+	"name": "sprint-system",
+	"tree": {
+		"$className": "DataModel",
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterCharacterScripts": {
+				"$className": "StarterCharacterScripts",
+				"SprintSystem": {
+					"$path": "src/SprintSystem"
+				}
+			}
+		}
+	}
+}
